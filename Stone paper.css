@@ -45,6 +45,13 @@ h1 {
 .btn-container{
   display: flex;
 }
+
+@media screen and (max-width: 768px) {
+  .btn{
+    width: 5rem;
+    margin: 1rem;
+}
+
 .rules-container {
   font-family:'Times New Roman', Times, serif;
   padding: 10px 0;
@@ -100,4 +107,5 @@ img {
   display: none;
   margin: 20px auto;
 }
+
 
