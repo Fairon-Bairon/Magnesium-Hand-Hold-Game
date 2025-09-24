@@ -48,7 +48,7 @@ h1 {
 
 @media screen and (max-width: 768px) {
   .btn{
-    width: 5rem;
+    width: 7rem;
     margin: 1rem;
 }
 
@@ -107,5 +107,6 @@ img {
   display: none;
   margin: 20px auto;
 }
+
 
 
